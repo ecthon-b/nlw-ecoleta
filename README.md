@@ -1,10 +1,12 @@
 <h1 align="center">
     <img alt="Next Level Week" src="./public/assets/nlw.svg" width="200px" />
+    
 </h1>
 
 <h2 align="center">
 
-  <img alt="Rocketseat - NLW" src="./public/assets/logo.svg" width="200px" />
+  <img alt="Ecoleta" src="./public/assets/logo.svg" width="200px"/>
+  <p>Ajudamos pessoas a econtrarem pontos de coleta de forma efetiva. ♻️ </p>
   <br/>
 </h2>
 
