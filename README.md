@@ -6,7 +6,7 @@
 <h2 align="center">
 
   <img alt="Ecoleta" src="./public/assets/logo.svg" width="200px"/>
-  <p>Ajudamos pessoas a econtrarem pontos de coleta de forma efetiva. ♻️ </p>
+  <p>Ajudamos pessoas a encontrarem pontos de coleta de forma efetiva. ♻️ </p>
   <br/>
 </h2>
 
