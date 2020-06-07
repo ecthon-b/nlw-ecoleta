@@ -54,4 +54,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by **Rocketseat/mpgxc** and me **e-borhis** 👾.
+Feito com 💜 by **Rocketseat** and me **e-borhis** 👾.
