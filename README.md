@@ -24,6 +24,11 @@
 
 O Ecoleta foi o desenvolvido durante a **Next Level Week**, da @Rocketseat. O projeto consiste em construir uma página web que tem por objetivo ajudar pessoas a encontrarem pontos de coleta de material reciclavel na sua cidade.
 
+<h1 align="center">
+    <img alt="Página home" src="./public/assets/cap.png" width="900px" height="500"/>    
+</h1>
+
+
 ## :rocket: Tecnologias
 
 Para o desenvolvimento do Ecoleta, foram utilizadas as seguintes tecnologias:
